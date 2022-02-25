@@ -31,10 +31,3 @@ xlabel("Tempo")
 ylabel("Amplitude (A)")
 axis([0 2020]);
 
-##figure 
-##plot(If1, 'r-')
-##hold on
-##plot(If2, 'c-')
-##hold on
-##plot(If3, 'b-')
-##axis([0 2020]);
